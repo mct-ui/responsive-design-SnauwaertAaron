@@ -423,7 +423,6 @@ a:focus {
 
 @media (min-width: 992px) {
     .c-header{
-        
     }
     .c-header__nav {
         /* flex-grow: 1;
