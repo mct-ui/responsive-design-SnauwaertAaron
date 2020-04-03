@@ -400,8 +400,6 @@ a:focus {
 @media (min-width: 768px) {
     .c-nav__list {
         display: flex;
-        margin-left: -16px;
-        margin-right: -16px;
     }
 
     .c-nav__link {
